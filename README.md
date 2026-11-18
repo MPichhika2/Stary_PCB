@@ -40,4 +40,6 @@ BUTTON:(I ONLY NEEED ONE PIECE BUT NO ONE SELLS THAT. IS THERE AN ANOTHER WAY?) 
 
 MICROCONTROLLER: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
 
+SPEAKER: https://www.amazon.com/gp/product/B0D7S8FFKY/ref=sw_img_1?smid=A2OEGRG2ZM4R5C&th=1
+
 I used AI (claude) to walk me through the process! I used AI to help me with the schematic connections for each part. I also understood how to route my PCB in the PCB editor then I was able to do it on my own. I used AI to help me curate a case or idea that would make the star stand out. I used Hackclub's example to add more details and images to my PCB. 
