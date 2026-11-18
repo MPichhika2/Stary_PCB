@@ -26,7 +26,7 @@ This is my final Stary design!
 | J3 | 1 | MAX98357A AUDIO | I2S Audio Amplifier |
 | SW1 | 1 | SW Push | Momentary Push Button |
 | U1 | 1 | XIAO-ESP32-S3-SMD | Microcontroller Board |
-
+| SPK| 1 | Speaker | Audio speaker wired to the MAX98357A amplifier   
 
 
 
