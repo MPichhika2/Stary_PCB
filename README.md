@@ -32,7 +32,7 @@ This is my final Stary design!
 
 Battery: https://www.amazon.com/JLJLUP-Rechargeable-Integrated-Protection-Development/dp/B0FH9XHXRT/ref=sr_1_1_sspa?crid=1ZFPTSMA4R4VS&dib=eyJ2IjoiMSJ9.li4cggKoqEX1SCSDpXCjx5rcFOkZCffsMpN0MZvvsb-3ts514JaD77b9Zi0EoE2yvqWQQho6XYXZFpXVU01_6DGqK17vN5Z8FfuaJuQFyrumgg5MBa_YGPVEs4JH-amadvfSivi-WXWeFsumB_FD1lDSzuhinzHSJvADKcDifkW4G4adNW5mFZstXtEkIi1csCe7JqPzCbmqA16msmUSZQWdUL0mZaU-c17hyT1By5HbN10kOAZ3ndsB4pG1EU99eW3xAJllsy_c1jy_87fAJLbL3LeosiFYIYiWEbcxx-s.wyrMGXUMYZBJfQJD3PuQXGeb1in74XmtxEOdm40uDCM&dib_tag=se&keywords=lipo+battery&qid=1792773489&sprefix=lipo+battery%2Caps%2C141&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
- SCREEN: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+ SCREEN: https://www.aliexpress.us/item/3256812386767481.html
 
 AMPLIFIER:https://www.adafruit.com/product/3006?srsltid=AU7gw4XkQBUtkr-MiJQN6yo5ufW_RndERFHiWExqMsFZ_fTOXYAt0ue0
 
