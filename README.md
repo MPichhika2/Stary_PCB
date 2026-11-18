@@ -39,3 +39,5 @@ AMPLIFIER:https://www.adafruit.com/product/3006?srsltid=AU7gw4XkQBUtkr-MiJQN6yo5
 BUTTON:(I ONLY NEEED ONE PIECE BUT NO ONE SELLS THAT. IS THERE AN ANOTHER WAY?) https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.0H9GGs7qKjJ-EE5XDHapeq6keJD7doZZEm6qtEyq8T7-KaPERURoCLBFP1qOYl6YLds8TJOgMgvnXL3f1NBFE67etRNuZ9ImayEXy_1lNtqVa3t7NKQq6WhjyP7mmnWYqX3rdJgLken45dYqB4j0SRmClKEQnKvHoAArC_6PD0Mdp0Vdl72WsIPQcEg8eEw557fQPyhu0oF4hBfRM7IZeCpzchp5PWkb25Zsunbi-rU.QXzTg7w_MsQd-DoV5N1WCv5esSvixRuEVVS-i6S7Ask&dib_tag=se&keywords=tactile%2Bpush%2Bbutton%2Bswitch&qid=1791770041&sr=8-6&th=1
 
 MICROCONTROLLER: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+
+I used AI (claude) to walk me through the process! I used AI to help me with the schematic connections for each part. I also understood how to route my PCB in the PCB editor then I was able to do it on my own. I used AI to help me curate a case or idea that would make the star stand out. I used Hackclub's example to add more details and images to my PCB. 
